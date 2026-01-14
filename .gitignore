@@ -17,3 +17,7 @@ local.properties
 build/
 .gradle/
 local.properties
+.idea/
+build/
+.gradle/
+local.properties
